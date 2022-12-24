@@ -25,16 +25,16 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
-<br><br><br>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
-<br><br><br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
+<br><br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
+<br><br>
 
 ### Github 活跃度
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&layout=compact&langs_count=6)
