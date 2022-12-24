@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="430" height="100%" />
+ <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="400" height="100%" />
 
 
 -   <a href="https://www.fomal.cc"><code><img height="20" width="20" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量10万+。
@@ -26,6 +26,8 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
+<br><br><br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
 <br><br><br>
 
 ### Github 活跃度
