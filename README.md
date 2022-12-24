@@ -31,9 +31,10 @@
 <br><br><br>
 
 ### Github 活跃度
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&layout=compact&langs_count=6)
