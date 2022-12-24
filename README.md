@@ -6,10 +6,10 @@
 
 ### 社交主页
 
- <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="400" height="100%" />
+ <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" />
 
--   <a href="https://www.fomal.cc"><code><img height="20" width="20" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量10万+
--   <a href="https://space.bilibili.com/220757832"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：Bilibili主页，播放量7万+，粉丝1000+
+-   <a href="https://www.fomal.cc"><code><img height="20" width="20" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量累计10万+
+-   <a href="https://space.bilibili.com/220757832"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：Bilibili主页，播放量7万+，粉丝累计1000+
 -   <a href="https://leetcode.cn/u/fomalhaut1998/"><code><img height="20" width="20" src="https://leetcode.cn/favicon.ico"></code></a>：LeetCode主页，粉丝累计100+
 
 
