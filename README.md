@@ -1,15 +1,18 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 一只低调的猕猴桃—Fomalhaut🥝
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+一个机械在读研究生，对数据结构与算法、前端开发以及Linux驱动开发比较感兴趣
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://www.fomal.cc"><code><img height="20" width="50" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量10万+。
+-   <a href="https://space.bilibili.com/220757832"><code><img height="20" width="50" src="https://www.bilibili.com/favicon.ico"></code></a>：Bilibili主页，播放量7万+，粉丝1000+。
+-   <a href="https://leetcode.cn/u/fomalhaut1998/"><code><img height="20" width="50" src="https://leetcode.cn/favicon.ico"></code></a>：LeetCode主页，粉丝累计100+。
+
 
 ### **技术栈:**
 
