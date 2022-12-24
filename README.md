@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
 ## 一只低调的猕猴桃—Fomalhaut🥝
 
@@ -6,20 +6,20 @@
 
 ### 社交主页
 
- <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" />
-
--   <a href="https://www.fomal.cc"><code><img height="20" width="20" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量累计10万+
--   <a href="https://space.bilibili.com/220757832"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：Bilibili主页，播放量7万+，粉丝累计1000+
--   <a href="https://leetcode.cn/u/fomalhaut1998/"><code><img height="20" width="20" src="https://leetcode.cn/favicon.ico"></code></a>：LeetCode主页，粉丝累计100+
+<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
+ 
+- <a href="https://www.fomal.cc"><img height="25" width="25" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计10万+
+- <a href="https://space.bilibili.com/220757832"><img height="25" width="25" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量7万+，粉丝累计1000+
+- <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="25" width="25" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
 
 
 ### 技术栈
-<a href="https://github.com/openjdk/jdk"><code><img height="20" src="./images/Java.jpeg"></code></a>
-<a href="https://www.w3school.com.cn/html/html5_intro.asp"><code><img height="20" src="./images/H5.jpeg"></code></a>
-<a href="https://www.w3cschool.cn/c/c-intro.html"><code><img height="20" src="./images/C.jpg"></code></a>
-<a href="https://www.w3cschool.cn/css3/a2yscflg.html"><code><img height="20" src="./images/CSS3.jpg"></code></a>
-<a href="https://www.w3cschool.cn/javascript/js-intro.html"><code><img height="20" src="./images/JS.jpg"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="https://github.com/openjdk/jdk"><img height="30" src="./images/Java.jpeg"></a>
+<a href="https://www.w3school.com.cn/html/html5_intro.asp"><img height="30" src="./images/H5.jpeg"></a>
+<a href="https://www.w3cschool.cn/c/c-intro.html"><img height="30" src="./images/C.jpg"></a>
+<a href="https://www.w3cschool.cn/css3/a2yscflg.html"><img height="30" src="./images/CSS3.jpg"></a>
+<a href="https://www.w3cschool.cn/javascript/js-intro.html"><img height="30" src="./images/JS.jpg"></a>
+<a href="https://www.docker.com"><img height="30" src="./images/docker.png"></a>
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
