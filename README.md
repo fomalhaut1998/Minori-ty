@@ -16,7 +16,11 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="https://pic.imgdb.cn/item/63a658f608b6830163ae213c.jpg"></code></a>
+<a href="https://github.com/openjdk/jdk"><code><img height="20" src="./images/Java.jpeg"></code></a>
+<a href="https://www.w3school.com.cn/html/html5_intro.asp"><code><img height="20" src="./images/H5.jpeg"></code></a>
+<a href="https://www.w3cschool.cn/c/c-intro.html"><code><img height="20" src="./images/C.jpg"></code></a>
+<a href="https://www.w3cschool.cn/css3/a2yscflg.html"><code><img height="20" src="./images/CSS3.jpg"></code></a>
+<a href="https://www.w3cschool.cn/javascript/js-intro.html"><code><img height="20" src="./images/JS.jpg"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 开源项目
