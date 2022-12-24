@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="430" height="100%" />
 
 
 -   <a href="https://www.fomal.cc"><code><img height="20" width="50" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量10万+。
@@ -29,7 +29,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&layout=compact&langs_count=6)
