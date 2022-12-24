@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=rule34">
 
 ## 一只低调的猕猴桃—Fomalhaut🥝
 
@@ -6,19 +6,17 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="430" height="100%" border-radius="12px" />
+ <img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="430" height="100%" />
 
 
--   <a href="https://www.fomal.cc"><code><img height="20" width="50" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量10万+。
--   <a href="https://space.bilibili.com/220757832"><code><img height="20" width="50" src="https://www.bilibili.com/favicon.ico"></code></a>：Bilibili主页，播放量7万+，粉丝1000+。
--   <a href="https://leetcode.cn/u/fomalhaut1998/"><code><img height="20" width="50" src="https://leetcode.cn/favicon.ico"></code></a>：LeetCode主页，粉丝累计100+。
+-   <a href="https://www.fomal.cc"><code><img height="20" width="20" src="https://www.fomal.cc/favicon.ico"></code></a>：个人网站，访问量10万+。
+-   <a href="https://space.bilibili.com/220757832"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：Bilibili主页，播放量7万+，粉丝1000+。
+-   <a href="https://leetcode.cn/u/fomalhaut1998/"><code><img height="20" width="20" src="https://leetcode.cn/favicon.ico"></code></a>：LeetCode主页，粉丝累计100+。
 
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="https://pic.imgdb.cn/item/63a658f608b6830163ae213c.jpg"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 开源项目
