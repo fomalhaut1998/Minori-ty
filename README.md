@@ -8,8 +8,8 @@
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
  
-- <a href="https://www.fomal.cc"><img height="25" width="25" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计10万+
-- <a href="https://space.bilibili.com/220757832"><img height="25" width="25" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量7万+，粉丝累计1000+
+- <a href="https://www.fomal.cc"><img height="25" width="25" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计20万+
+- <a href="https://space.bilibili.com/220757832"><img height="25" width="25" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1200+
 - <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="25" width="25" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
 
 
@@ -22,6 +22,8 @@
 <a href="https://www.docker.com"><img height="30" src="./images/docker.png"></a>
 
 ### 开源项目
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
+<br>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
 <br><br>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
