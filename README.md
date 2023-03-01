@@ -22,7 +22,7 @@
 <a href="https://www.docker.com"><img height="30" src="./images/docker.png"></a>
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)
 <br>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
 <br><br>
