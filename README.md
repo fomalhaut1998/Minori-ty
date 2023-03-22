@@ -2,7 +2,10 @@
 
 ## 一只低调的猕猴桃—Fomalhaut🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
+
 ### 自我介绍
+
+<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
 - 大家好，我是🥝，来自广东江门
 - 目前是一名机械在读研究生
@@ -12,13 +15,15 @@
 
 ### 社交主页
 
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
+
  
 - <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计30万+
 - <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1400+
 - <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
 
+
 ---
+
 
 ### 技术栈
 ![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
@@ -56,7 +61,14 @@
 ### Github 贡献图
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
 ---
-### 投喂作者🍭
+
+<br>
+
+### 投喂作者🍭🍭🍭
 
 <a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+
+<br>
