@@ -21,7 +21,6 @@
 - <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
 
 
----
 
 
 ### 技术栈
@@ -59,10 +58,6 @@
 
 ### Github 贡献图
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
----
 
 <br>
 
